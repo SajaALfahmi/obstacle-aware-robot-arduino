@@ -47,7 +47,7 @@ It executes a pre-defined sequence of motor movements and reacts intelligently t
 ## 📂 Files
 
 - `main.ino` → Arduino source code for motor + sensor + servo control
-- `demo.mp4` → Demonstration video of project behavior
+- `arduino-obstacle-avoidance-simulation.MOV` → Demonstration video of project behavior
 - `README.md` → Project overview (this file)
 
 ---
