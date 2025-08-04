@@ -54,6 +54,10 @@ It executes a pre-defined sequence of motor movements and reacts intelligently t
 
 ## 📷 Demo
 
+<p align="center">
+  <img src="simulation-screenshot.png" alt="Simulation Screenshot" width="600"/>
+</p>
+
 🎥 Watch the full simulation in [`arduino-obstacle-avoidance-simulation.mp4`](./arduino-obstacle-avoidance-simulation.MOV)
 
 ---
